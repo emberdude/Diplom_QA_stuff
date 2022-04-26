@@ -1,0 +1,8 @@
+.brstu-table{margin:10px;border:1px solid #dbdbdb;border-collapse:collapse;font-family:arial,sans-serif;font-size:13px}
+.brstu-table td,.brstu-table th{border:1px solid #dbdbdb;padding:6px 5px 8px}
+.brstu-table th{font-weight:bold}
+.brstu-table p{margin-bottom:6px} 
+.brstu-table-head{border:none;border-collapse:collapse}
+.brstu-table-head td{border:none}
+.brstu-table-head img{width:130px}
+.brstu-table-head td:first-child{width:150px}
